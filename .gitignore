@@ -1,0 +1,15 @@
+# Exclude the following folders and files
+
+# Results
+results/*
+!results/SDA_ggmap.png
+!results/gorillas.rda
+
+# R/RStudio files
+gorillas.Rproj
+.Rproj.user
+.Rhistory
+.Rdata
+
+# log file
+gorillas.log
