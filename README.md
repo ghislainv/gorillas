@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/20937/ghislainv/gorillas.svg)](https://zenodo.org/badge/latestdoi/20937/ghislainv/gorillas)
+
 # gorillas
 
 # Estimating Grauer's gorilla distribution and population size in eastern Democratic Republic of the Congo
