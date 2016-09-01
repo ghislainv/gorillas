@@ -16,7 +16,7 @@ Data can be found in the `data` folder:
 
 The R script `gorillas.R` can be run to reproduce the results of the following study:
 
-**Plumptre A. J., S. Nixon, D. Kujirakwinja, G. Vieilledent, R. Critchlow, R. Nishuli, A. Kirkby, E. A. Williamson and J. S. Hall** 2016. Catastrophic Decline of World's Largest Primate: 80% Loss of Grauer's Gorilla (_Gorilla beringei graueri_) Population makes it Critically Endangered. _PLoS One_.
+**Plumptre A. J., S. Nixon, D. Kujirakwinja, G. Vieilledent, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby and J. S. Hall** 2016. Catastrophic Decline of World's Largest Primate: 80% Loss of Grauer's Gorilla (_Gorilla beringei graueri_) Population Justifies Critically Endangered Status. _PLoS One_.
 
 To run the script, you can either execute the `gorillas.sh` shellscript file or run the R script under a R GUI such as RStudio.
 
