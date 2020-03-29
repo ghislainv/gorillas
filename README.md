@@ -1,8 +1,6 @@
 [![DOI](https://zenodo.org/badge/20937/ghislainv/gorillas.svg)](https://zenodo.org/badge/latestdoi/20937/ghislainv/gorillas)
 
-# gorillas
-
-# Estimating Grauer's gorilla distribution and population size in eastern Democratic Republic of the Congo
+# :gorilla: :congo_kinshasa: Estimating Grauer's gorilla distribution and population size in eastern Democratic Republic of the Congo
 
 ## Data
 
@@ -18,7 +16,7 @@ Data can be found in the `data` folder:
 
 The R script `gorillas.R` can be run to reproduce the results of the following study:
 
-**Plumptre A. J., S. Nixon, D. Kujirakwinja, G. Vieilledent, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby and J. S. Hall**. 2016. Catastrophic Decline of World's Largest Primate: 80% Loss of Grauer's Gorilla (_Gorilla beringei graueri_) Population Justifies Critically Endangered Status. _PLoS One_.
+**Plumptre A. J., S. Nixon, D. Kujirakwinja, G. Vieilledent, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby and J. S. Hall**. 2016. Catastrophic Decline of World's Largest Primate: 80% Loss of Grauer's Gorilla (_Gorilla beringei graueri_) Population Justifies Critically Endangered Status. _PLoS One_. **11**(10): e0162697. /[doi:[10.1371/journal.pone.0162697](https://doi.org/10.1371/journal.pone.0162697)/].
 
 To run the script, you can either execute the `gorillas.sh` shellscript file or run the R script under a R GUI such as RStudio.
 
